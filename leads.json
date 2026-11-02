@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Axel",
+    "budget": 1500000,
+    "property": "Richdale West",
+    "status": "Follow-up"
+  },
+  {
+    "name": "Benn",
+    "budget": 1800000,
+    "property": "Le Moubreza South",
+    "status": "Follow-up"
+  },
+  {
+    "name": "Crist",
+    "budget": 3000000,
+    "property": "Tanauan Park Place",
+    "status": "Qualified"
+  }
+]
