@@ -71,3 +71,6 @@ leads.forEach(lead => {
 
  console.log(`\nTotal Potential Sales: ₱${totalbudget}`);
  console.log(`Average Buyer Budget: ₱${averageBudget}`);
+
+ // Updated through GitHub workflow
+console.log("My first GitHub update!");
