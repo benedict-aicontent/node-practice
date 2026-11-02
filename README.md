@@ -16,3 +16,8 @@ Benedict
 ## Current Development
 
 Working on an improved lead reporting feature.
+
+
+## Temporary Feature
+
+This feature will be reverted.
